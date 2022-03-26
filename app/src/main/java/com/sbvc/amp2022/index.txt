@@ -1,0 +1,35 @@
+1 . Introduction to Android Architecture
+2. Introduction to Android development environment
+3.1 Introduction to different layouts
+3.2 Create a simple form to accept student information
+using edit text, text view and list view controllers
+3.3 Demonstration for activity life cycle
+3.4 Demonstrate for activity life cycle events
+3.5 Demonstrate transfer of data between multiple
+activities
+
+4.1 Disable controllers by using programme
+4.2 Develop current converter application
+4.3 Develop calculator application
+
+5.1 Demonstrate service life cycle using music media
+player controller
+5.2 Demonstrate broadcast receiver
+
+6.1 Demonstrate rating bar
+6.2 Demonstrate web view controller
+6.3 Demonstrate progress bar
+
+7.1 Demonstrate file operations
+7.2 Demonstrate shared preferences
+7.3 Demonstrate CRUD operations using SQLite
+
+8.1 Demonstrate notification
+8.2 Demonstrate notification using Firebase
+
+9.1 Demonstrate Google Map API
+9.2 Demonstrate SMS API
+9.3 Demonstrate call API
+9.4 Demonstrate camera API
+
+10.1 Demonstrate Volly libraries
